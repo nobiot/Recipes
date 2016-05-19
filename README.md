@@ -12,3 +12,16 @@ http://www.seriouseats.com/recipes/2014/04/vegan-curried-quinoa-with-broccoli-an
 ![Broccoli and Kale Salad][image_1]
 
 [image_1]:images/20160510_N_quinoa-brocolli-kale-salad-1.jpg
+
+## 2016-015-19 Rice & Lentil Pilau
+@Vegan
+
+Source:
+Somewhere forgotten
+
+(Very vague)
+- Rice 200g
+- Green lentil 200g
+- Vegestock in 500ml of water
+- Salt & pepper to taste
+- Cummin, tumeric, and paplika 1-1 1/2 tbs
