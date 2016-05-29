@@ -25,3 +25,6 @@ Somewhere forgotten
 - Vegestock in 500ml of water
 - Salt & pepper to taste
 - Cummin, tumeric, and paplika 1-1 1/2 tbs
+
+## Banana and Oat Breakfast Smoothie
+http://www.yummly.com/recipe/Deliciously-Ella_s-easy-banana-and-oat-breakfast-smoothie-1334187?prm-v1&utm_medium=email&utm_campaign=recoemail
