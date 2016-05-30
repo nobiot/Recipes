@@ -32,3 +32,6 @@ http://www.yummly.com/recipe/Deliciously-Ella_s-easy-banana-and-oat-breakfast-sm
 ## Spaghetti with Tuna & Vegetables in Sauce
 
 
+![Spaghetti with Tuna & Vegetables in Sauce][image_2]
+
+[image_2]:images/20160530_N_spaghetti-tuna_and-vegetable-tomato-sauce.jpg
