@@ -29,9 +29,9 @@ Somewhere forgotten
 ## Banana and Oat Breakfast Smoothie
 http://www.yummly.com/recipe/Deliciously-Ella_s-easy-banana-and-oat-breakfast-smoothie-1334187?prm-v1&utm_medium=email&utm_campaign=recoemail
 
-## Spaghetti with Tuna & Vegetables in Sauce
+## Spaghetti with Tuna & Vegetables in Tomato Sauce
 
 
-![Spaghetti with Tuna & Vegetables in Sauce][image_2]
+![Spaghetti with Tuna & Vegetables in Tomato Sauce][image_2]
 
 [image_2]:images/20160530_N_spaghetti-tuna_and-vegetable-tomato-sauce.jpg
