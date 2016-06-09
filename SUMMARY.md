@@ -1,9 +1,10 @@
-# Summary
+# Introduction 
+[About this book](README.md)
 
-## [Snacks & Drinks](chapter--snacks-and-drinks.md)
+# [Snacks & Drinks](chapter--snacks-and-drinks.md)
 * [DIY Energy Bar](diy-energy-bar.md)
 
-## [Meals](chapter--meals.md)
+# [Meals](chapter--meals.md)
 
 * [Broccoli & Kale Stew Salad](broccoli-and-kale-stew-salad.md)
 * [Rice & Lentil Pilau](rice-and-lentil-pilau.md)
