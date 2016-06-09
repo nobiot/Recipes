@@ -1,6 +1,6 @@
 # Introduction
 
-## Introduction
+* [About this book](about-this-book.md)
 
 # Recipes
 
