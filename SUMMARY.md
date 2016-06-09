@@ -1,5 +1,4 @@
-# Introduction 
-[About this book](README.md)
+# [Introduction](README.md)
 
 # [Snacks & Drinks](chapter--snacks-and-drinks.md)
 
