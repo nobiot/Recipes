@@ -2,8 +2,6 @@
 
 ## Introduction
 
-* Preface
-
 # Recipes
 
 ## [Snacks & Drinks](chapter--snacks-and-drinks.md)
