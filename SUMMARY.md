@@ -2,6 +2,7 @@
 [About this book](README.md)
 
 # [Snacks & Drinks](chapter--snacks-and-drinks.md)
+
 * [DIY Energy Bar](diy-energy-bar.md)
 
 # [Meals](chapter--meals.md)
